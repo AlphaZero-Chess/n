@@ -6,7 +6,7 @@
 // @match         *://lichess.org/*
 // @run-at        document-idle
 // @grant         none
-// @require       https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/YOUR_REPO@main/stockfish-worker-factory.js
+// @require       https://cdn.jsdelivr.net/gh/AlphaZero-Chess/n@refs/heads/main/stockfish-worker-factory.js
 // ==/UserScript==
 
 /**
